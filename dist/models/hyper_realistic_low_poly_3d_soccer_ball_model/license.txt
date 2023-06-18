@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hyper Realistic Low Poly 3D Soccer Ball Model
+* source:	https://sketchfab.com/3d-models/hyper-realistic-low-poly-3d-soccer-ball-model-5c616eb51f114d44bf4e8e0b5a33a3d3
+* author:	Shashinda Eshan (https://sketchfab.com/Shashinda.Eshan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hyper Realistic Low Poly 3D Soccer Ball Model" (https://sketchfab.com/3d-models/hyper-realistic-low-poly-3d-soccer-ball-model-5c616eb51f114d44bf4e8e0b5a33a3d3) by Shashinda Eshan (https://sketchfab.com/Shashinda.Eshan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
